@@ -1,1 +1,4 @@
+Hello this is my conflict text file.
+Hello this is my conflict2 text file.
+Hello this is my Second text file.
 Hello this is my Second text file.
